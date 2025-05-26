@@ -15,14 +15,18 @@ Register for the online version of the workshop [here]().
 In-person participants can register through the [FAccT'25 website](https://facctconference.org).
 
 ## Time/Location
-[Athens Conservatoire](https://www.athensconservatoire.gr/) and Online,  
+Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/),
+
 Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
 ## Organisers 
 
 ![Georgia Panagiotidou]()  
+
 ![Ben Snaith]()  
+
 ![Aurora Gomez]()  
+
 ![Tamara Kneese]()  
 
 ## Schedule
