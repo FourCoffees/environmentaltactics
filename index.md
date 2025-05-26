@@ -4,21 +4,6 @@ layout: default
 
 The rapid adoption of machine learning (ML) has come with a significant environmental burden due to increased resource usage, yet such material and environmental impacts of AI are no surprise anymore, especially to the FAccT community. This workshop aims to shift from awareness and transparency to empowerment and action with the understanding that such action will need to be both individual as well as collective. This workshop will interweave this individual vs. collective tension through a round-table discussion that gathers researchers and activists to discuss and inform each other on methods and tactics for supporting environmental action.  Specifically, the focus will be bringing together various actors interested in the environmental impacts of AI and introducing them to the tools and tactics used ‘on the ground’ to map, measure, understand, and mitigate these various impacts.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
 #### Header 4
 
 *   This is an unordered list following a header.
