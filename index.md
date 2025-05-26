@@ -10,12 +10,12 @@ The workshop will bring together various actors interested in the environmental 
 
 #### How to take part?
 
-Register for the online version of the workshop [here]().
+Register for the online version of the workshop [here](){:target="_blank"}.
 
-In-person participants can register through the [FAccT'25 website](https://facctconference.org).
+In-person participants can register through the [FAccT'25 website](https://facctconference.org){:target="_blank"}.
 
 ## Time/Location
-Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/),
+Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/){:target="_blank"},
 
 Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
