@@ -8,7 +8,11 @@ The rapid adoption of machine learning (ML) has come with a significant environm
 
 The workshop will bring together various actors interested in the environmental impacts of AI and introducing them to the tools and tactics used ‘on the ground’ to map, measure, understand, and mitigate these various impacts. No prior knowledge is expected! 
 
-Register for the online version of the workshop [here](). In-person participants can register through the [FAccT'25 website](https://facctconference.org).
+#### How to take part?
+
+Register for the online version of the workshop [here]().
+
+In-person participants can register through the [FAccT'25 website](https://facctconference.org).
 
 ## Time/Location
 [Athens Conservatoire](https://www.athensconservatoire.gr/) and Online,  
