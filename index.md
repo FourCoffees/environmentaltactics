@@ -2,25 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+The rapid adoption of machine learning (ML) has come with a significant environmental burden due to increased resource usage, yet such material and environmental impacts of AI are no surprise anymore, especially to the FAccT community. This workshop aims to shift from awareness and transparency to empowerment and action with the understanding that such action will need to be both individual as well as collective. This workshop will interweave this individual vs. collective tension through a round-table discussion that gathers researchers and activists to discuss and inform each other on methods and tactics for supporting environmental action.  Specifically, the focus will be bringing together various actors interested in the environmental impacts of AI and introducing them to the tools and tactics used ‘on the ground’ to map, measure, understand, and mitigate these various impacts.
 
 ```js
 // Javascript code with syntax highlighting.
