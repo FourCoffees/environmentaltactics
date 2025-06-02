@@ -21,7 +21,7 @@ Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
 
 ## Organisers 
-<img src="assets/css/georgia2.png" alt="Georgia's Photo" width="100" />  
+<img src="assets/css/georgia2.png" alt="Georgia's Photo" width="100" />
 Georgia Panagiotidou, King's College London   
 https://www.kcl.ac.uk/people/georgia-panagiotidou
 <br>
@@ -37,7 +37,7 @@ https://tunubesecamirio.com
 <br>
 <br>
 <img src="assets/css/tkneese.png" alt="Tamara's Photo" width="100"/>
-Tamara Kneese, Data & Society  
-https://www.tamarakneese.com
+![Tamara Kneese](https://www.tamarakneese.com), Data & Society
+
 <br>
 <br>
