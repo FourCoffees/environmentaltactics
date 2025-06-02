@@ -21,7 +21,7 @@ Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
 ## Organisers 
 <img src="assets/css/georgia2.png" alt="Georgia's Photo" width="150" style="display: block; margin: auto;"/>
-<p> [Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London </p>
+<div style="display: block; margin: auto;"> [Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London </div>
 <br>
 <br>
 <img src="assets/css/ben.png" alt="Ben's Photo" width="150"/>
