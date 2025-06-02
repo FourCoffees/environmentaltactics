@@ -21,20 +21,20 @@ Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
 ## Organisers 
 <img src="assets/css/georgia2.png" alt="Georgia's Photo" width="150" style="display: block; margin: auto;"/>
-<div style="display: block; margin: auto;"> [Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London </div>
+[Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London
 <br>
 <br>
-<img src="assets/css/ben.png" alt="Ben's Photo" width="150"/>
+<img src="assets/css/ben.png" alt="Ben's Photo" width="150" style="display: block; margin: auto;"/>
 [Ben Snaith](https://theodi.org/profile/ben-snaith/){:target="_blank"}, Open Data Institute   
 
 <br>
 <br>
-<img src="assets/css/tunebe.png" alt="Aurora's Photo" width="150"/>
+<img src="assets/css/tunebe.png" alt="Aurora's Photo" width="150" style="display: block; margin: auto;"/>
 [Aurora Gomez](https://tunubesecamirio.com){:target="_blank"}, Tunubesecamirio  
 
 <br>
 <br>
-<img src="assets/css/tkneese.png" alt="Tamara's Photo" width="150"/>
+<img src="assets/css/tkneese.png" alt="Tamara's Photo" width="150" style="display: block; margin: auto;"/>
 [Tamara Kneese](https://www.tamarakneese.com){:target="_blank"}, Data & Society
 
 <br>
