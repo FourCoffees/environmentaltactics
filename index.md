@@ -26,7 +26,7 @@ Georgia Panagiotidou, King's College London
 https://www.kcl.ac.uk/people/georgia-panagiotidou
 <br>
 <br>
-<img src="assets/css/ben.jpg" alt="Ben's Photo" width="100"/>
+<img src="assets/css/ben.png" alt="Ben's Photo" width="100"/>
 Ben Snaith, Open Data Institute   
 https://theodi.org/profile/ben-snaith/
 <br>
