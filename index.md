@@ -20,7 +20,7 @@ Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/){:t
 Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
 ## Organisers 
-<img src="assets/css/georgia2.png" alt="Georgia's Photo" height="150" />  
+<img src="assets/css/georgia2.png" alt="Georgia's Photo" width="150" />  
 [Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London
 
 <br>
