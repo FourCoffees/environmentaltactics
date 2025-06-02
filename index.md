@@ -31,7 +31,7 @@ Ben Snaith, Open Data Institute
 https://theodi.org/profile/ben-snaith/
 <br>
 <br>
-<img src="assets/css/tunebe.jpg" alt="Aurora's Photo" width="100"/>
+<img src="assets/css/tunebe.png" alt="Aurora's Photo" width="100"/>
 Aurora Gomez, TuNubeSecaMiRio  
 https://tunubesecamirio.com
 <br>
