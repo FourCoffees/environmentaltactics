@@ -19,7 +19,6 @@ Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/){:t
 <br>
 Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
-
 ## Organisers 
 <img src="assets/css/georgia2.png" alt="Georgia's Photo" width="150" />
 [Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London 
@@ -31,7 +30,7 @@ Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 <br>
 <br>
 <img src="assets/css/tunebe.png" alt="Aurora's Photo" width="150"/>
-[Aurora Gomez]([https://www.tamarakneese.com](https://tunubesecamirio.com)){:target="_blank"}, TuNubeSecaMiRio  
+[Aurora Gomez](https://tunubesecamirio.com){:target="_blank"}, Tunubesecamirio  
 
 <br>
 <br>
