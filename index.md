@@ -19,24 +19,25 @@ Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/){:t
 <br>
 Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
 
+
 ## Organisers 
-
-![Georgia Panagiotidou](assets/css/georgia2.png) 
-Georgia Panagiotidou, King's College London  
-https://fourcoffees.github.io/georgiapanagiotidou/
+<img src="assets/css/georgia2.png" alt="Georgia's Photo" width="100" />  
+Georgia Panagiotidou, King's College London   
+https://www.kcl.ac.uk/people/georgia-panagiotidou
 <br>
-
-![Ben Snaith](assets/css/ben.jpg)  
+<br>
+<img src="assets/css/ben.jpg" alt="Ben's Photo" width="100"/>
 Ben Snaith, Open Data Institute   
 https://theodi.org/profile/ben-snaith/
 <br>
-
-![Aurora Gomez](assets/css/tunube.jng)  
+<br>
+<img src="assets/css/tunebe.jpg" alt="Aurora's Photo" width="100"/>
 Aurora Gomez, TuNubeSecaMiRio  
 https://tunubesecamirio.com
 <br>
-
-![Tamara Kneese](assets/css/tkneese.png)  
+<br>
+<img src="assets/css/tkneese.png" alt="Tamara's Photo" width="100"/>
 Tamara Kneese, Data & Society  
 https://www.tamarakneese.com
+<br>
 <br>
