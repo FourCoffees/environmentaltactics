@@ -17,7 +17,7 @@ In-person participants can register through the [FAccT'25 website](https://facct
 ## Time/Location
 Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/){:target="_blank"},
 <br>
-Jun 24, 2025 @ 2:45pm - 5:15pm Athens, Greece (UTC +3)
+Jun 24, 2025 @ 3pm - 5:30pm Athens, Greece (UTC +3)
 
 ## Organisers 
 <img src="assets/css/georgia2.png" alt="Georgia's Photo" width="150" />  
