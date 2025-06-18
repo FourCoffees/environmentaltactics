@@ -36,7 +36,7 @@ Jun 24, 2025 @ 3pm - 5:30pm Athens, Greece (UTC +3)
 <br>
 <br>
 <img src="assets/css/Kyriaki.jpg" alt="Kyriaki's Photo" width="150" />  
-[Kyriaki Goni](kyriakigoni.com){:target="_blank"}  
+[Kyriaki Goni](https://kyriakigoni.com){:target="_blank"}  
 
 
 <br>
