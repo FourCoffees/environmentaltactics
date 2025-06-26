@@ -19,6 +19,14 @@ Online and at the [Athens Conservatoire](https://www.athensconservatoire.gr/){:t
 <br>
 Jun 24, 2025 @ 3pm - 5:30pm Athens, Greece (UTC +3)
 
+## Additional material
+•	[Power, ecology and diplomacy in critical data infrastructures](https://theodi.org/insights/reports/power-ecology-and-diplomacy-in-critical-data-infrastructures/){:target="_blank"} - The ODI
+•	[Allusive Protocols](https://culture.theodi.org/allusive-protocols/){:target="_blank"}
+•	[Where Cloud Is Ground](https://www.ucpress.edu/books/where-cloud-is-ground/paper){:target="_blank"} by Alix Johnson
+•	[Getting into Fights with Data Centres](https://emmlab.info/Resources_page/Data%20Center%20Fights_digital.pdf){:target="_blank"} by Anne Pasek
+•	[Energy and AI Observatory – Data Tools](https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI){:target="_blank"} - IEA
+
+
 ## Organisers 
 <img src="assets/css/georgia2.png" alt="Georgia's Photo" width="150" />  
 [Georgia Panagiotidou](https://fourcoffees.github.io/georgiapanagiotidou/){:target="_blank"}, King's College London
